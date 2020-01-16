@@ -12,7 +12,7 @@ Tests for the new cursus
 
 *  [printf_lover-v2](https://github.com/charMstr/printf_lover_v2.git) - charMstr
 
-*  [printf_lover-v2](https://github.com/AntoineBourin/printf-tester.git) - AntoineBourin
+*  [printf-tester](https://github.com/AntoineBourin/printf-tester.git) - AntoineBourin
 
 *  [printftest](https://github.com/pikooli/printftest.git) - pikoo/evs
 ```
