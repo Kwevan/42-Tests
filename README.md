@@ -29,6 +29,14 @@ Tests for the new cursus (from october 2019)
 *  [gnlkiller2](https://github.com/Sherchryst/gnlkiller) - Sherchryst      
 <br /><br />  
 
+## Netwhat
+
+*  [Calculateur](http://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/) - CNRS Grenoble 
+
+*  [Calculateur 2 ](https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatrice.html)
+
+<br /><br />  
+
 
 ## Libft
 
@@ -59,6 +67,8 @@ Tests for the new cursus (from october 2019)
 
 ## Others
 
-*  [netwhat](https://github.com/rchallie/netwhat) - rchallie
+*  [netwhat train](https://github.com/adblanc/netwhat42-train) - adblanc
+
+*  [netwhat ressources](https://github.com/rchallie/netwhat) - rchallie
 
  
