@@ -67,8 +67,13 @@ Tests for the new cursus (from october 2019)
 
 ## Others
 
+
+
+*  [norminette from home](https://github.com/hivehelsinki/norminette-client) - hivehelsinki
+
+*  [42toolbox](https://github.com/alexandregv/42toolbox) - alexandregv
+
 *  [netwhat train](https://github.com/adblanc/netwhat42-train) - adblanc
 
 *  [netwhat ressources](https://github.com/rchallie/netwhat) - rchallie
-
  
