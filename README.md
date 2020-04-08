@@ -68,8 +68,11 @@ Tests for the new cursus (from october 2019)
 ## Others
 
 
+*  [42 Paris](https://github.com/42Paris)
 
 *  [norminette from home](https://github.com/hivehelsinki/norminette-client) - hivehelsinki
+
+*  [header from home](https://github.com/pbondoer/vim-42header)
 
 *  [42toolbox](https://github.com/alexandregv/42toolbox) - alexandregv
 
@@ -77,3 +80,9 @@ Tests for the new cursus (from october 2019)
 
 *  [netwhat ressources](https://github.com/rchallie/netwhat) - rchallie
  
+ ----
+ 
+ ### Others
+ 
+ *  [jetbrains](https://www.jetbrains.com/community/education/#students) - CLion, IntelliJ ...
+
