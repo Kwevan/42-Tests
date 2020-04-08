@@ -70,7 +70,7 @@ Tests for the new cursus (from october 2019)
 
 *  [42 Paris](https://github.com/42Paris)
 
-*  [norminette from home](https://github.com/hivehelsinki/norminette-client) - hivehelsinki
+*  [norminette from home](https://github.com/42Paris/norminette)
 
 *  [header from home](https://github.com/pbondoer/vim-42header)
 
