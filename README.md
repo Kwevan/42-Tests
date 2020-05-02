@@ -4,6 +4,20 @@ Tests for the new cursus (from october 2019)
 <br /><br />
 
 
+## ft_services
+
+*  [ft_services Defence tips on VM during COVID-19](https://www.notion.so/Ft_services-VM-852d4f9b0d9a42c1a2de921e4a2ac417) - ashishae
+
+*  [ft_services guide](https://github.com/t0mm4rx/ft_services) - t0mm4rx
+<br /><br />  
+
+
+## ft_server
+
+*  [ft_server guide - fr](https://github.com/pmouhali/ft_server) - pmouhali
+<br /><br />  
+
+
 ## Printf
 
 *  [42TESTERS-PRINTF](https://github.com/Mazoise/42TESTERS-PRINTF) - Mazoise
