@@ -3,6 +3,10 @@
 Tests for the new cursus (from october 2019)
 <br /><br />
 
+*  [English / French subjects](https://github.com/Kwevan/42_Subjects_2020_with_versioning) 
+*  [Korean translation](https://github.com/42seoul-translation/subject_ko)  
+
+<br /><br />
 
 ## ft_services
 
@@ -45,6 +49,11 @@ Tests for the new cursus (from october 2019)
 
 ## Netwhat
 
+
+*  [netwhat train](https://github.com/adblanc/netwhat42-train) - adblanc
+
+*  [netwhat ressources](https://github.com/rchallie/netwhat) - rchallie
+
 *  [Calculateur](http://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/) - CNRS Grenoble 
 
 *  [Calculateur 2 ](https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatrice.html)
@@ -82,7 +91,9 @@ Tests for the new cursus (from october 2019)
 ## Others
 
 
-*  [42 Paris](https://github.com/42Paris)
+*  [42 ranking](https://find-peers.herokuapp.com/)
+
+*  [42 Paris Github](https://github.com/42Paris)
 
 *  [norminette from home](https://github.com/42Paris/norminette)
 
@@ -90,9 +101,6 @@ Tests for the new cursus (from october 2019)
 
 *  [42toolbox](https://github.com/alexandregv/42toolbox) - alexandregv
 
-*  [netwhat train](https://github.com/adblanc/netwhat42-train) - adblanc
-
-*  [netwhat ressources](https://github.com/rchallie/netwhat) - rchallie
  
  ----
  
