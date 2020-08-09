@@ -1,4 +1,4 @@
-﻿# 42-Tests
+# 42-Tests
 
 Tests for the new cursus (from october 2019)
 <br /><br />
@@ -8,7 +8,23 @@ Tests for the new cursus (from october 2019)
 
 <br /><br />
 
-## ft_services
+
+## Philosophers
+
+*  [Socrates](https://github.com/nesvoboda/socrates) - ashishae
+*  [Tips for correction on the Xubuntu VM ](https://www.notion.so/philosophers-VM-c60be9c836084edfbcd9c07e29b429c4) - ashishae
+
+<br /><br />
+
+
+## Minishell
+
+*  [Minishell-tester](https://github.com/solaldunckel/minishell-tester) - solaldunckel
+*  [42TESTERS-MINISHELL](https://github.com/Mazoise/42TESTERS-MINISHELL) - Mazoise
+
+<br /><br /> 
+
+## Ft_services
 
 *  [ft_services Defence tips on VM during COVID-19](https://www.notion.so/Ft_services-VM-852d4f9b0d9a42c1a2de921e4a2ac417) - ashishae
 
@@ -16,9 +32,15 @@ Tests for the new cursus (from october 2019)
 <br /><br />  
 
 
-## ft_server
+## Libasm
 
-*  [ft_server guide - fr](https://github.com/pmouhali/ft_server) - pmouhali
+*  [guide - korean](https://www.notion.so/Libasm-3c94bbc7df234499b012f6ae82b84dc2) - ryukim
+<br /><br /> 
+
+
+## Ft_server
+
+*  [guide - french](https://github.com/pmouhali/ft_server) - pmouhali
 <br /><br />  
 
 
@@ -94,6 +116,9 @@ Tests for the new cursus (from october 2019)
 
 
 *  [42 ranking](https://find-peers.herokuapp.com/)
+
+*  [Intra 42 android app](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=fr), 
+   [Github of the app](https://github.com/pvarry/intra42)
 
 *  [42 Paris Github](https://github.com/42Paris)
 
