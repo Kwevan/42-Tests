@@ -35,6 +35,9 @@ Tests for the new cursus (from october 2019)
 ## Libasm
 
 *  [guide - korean](https://www.notion.so/Libasm-3c94bbc7df234499b012f6ae82b84dc2) - ryukim
+
+* [libasm_test](https://github.com/cacharle/libasm_test) - cacharle
+
 <br /><br /> 
 
 
@@ -57,6 +60,9 @@ Tests for the new cursus (from october 2019)
 *  [printf_lover-v2](https://github.com/charMstr/printf_lover_v2.git) - charMstr
 
 *  [printf-tester](https://github.com/AntoineBourin/printf-tester.git) - AntoineBourin
+
+* [ft_printf_test](https://github.com/cacharle/ft_printf_test) - cacharle
+
 <br /><br />  
 
 
