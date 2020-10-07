@@ -11,7 +11,8 @@ Tests for the new cursus (from october 2019)
 
 ## ft\_containers
 
-* [ft\_containers_test](https://github.com/cacharle/ft_containers_test) - cacharle
+* [ft_containers_test](https://github.com/cacharle/ft_containers_test) - cacharle
+* [ft_containers_tester](https://github.com/fredrikalindh/ft_containers_tester) - fredrikalindh
 
 ---
 
@@ -28,6 +29,7 @@ Tests for the new cursus (from october 2019)
 * [Minishell-tester](https://github.com/solaldunckel/minishell-tester) - solaldunckel
 * [42TESTERS-MINISHELL](https://github.com/Mazoise/42TESTERS-MINISHELL) - Mazoise
 * [minishell_test](https://github.com/cacharle/minishell_test) - cacharle
+* [minishell_tests](https://github.com/t0mm4rx/minishell_tests) - t0mm4rx
 
 ---
 
