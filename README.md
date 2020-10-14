@@ -68,6 +68,7 @@ Tests for the new cursus (from october 2019)
 * [printf_lover-v2](https://github.com/charMstr/printf_lover_v2.git) - charMstr
 * [printf-tester](https://github.com/AntoineBourin/printf-tester.git) - AntoineBourin
 * [ft_printf_test](https://github.com/cacharle/ft_printf_test) - cacharle
+* [Test-42_Printf](https://github.com/PandaCoustik/Test-42) - jpanneau
 
 ---
 
@@ -76,7 +77,8 @@ Tests for the new cursus (from october 2019)
 * [42TESTERS-GNL](https://github.com/Mazoise/42TESTERS-GNL) - Mazoise
 * [GNL_lover](https://github.com/charMstr/GNL_lover) - charMstr
 * [gnlkiller](https://github.com/DontBreakAlex/gnlkiller) - DontBreakAlex
-* [gnlkiller2](https://github.com/Sherchryst/gnlkiller) - Sherchryst      
+* [gnlkiller2](https://github.com/Sherchryst/gnlkiller) - Sherchryst  
+* [Test-42_GNL](https://github.com/PandaCoustik/Test-42) - jpanneau    
 
 ---
 
