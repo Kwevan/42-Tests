@@ -42,7 +42,7 @@ Tests for the new cursus (from october 2019)
 
 ## Libasm
 
-* [guide - korean](https://www.notion.so/Libasm-3c94bbc7df234499b012f6ae82b84dc2) - ryukim
+* [guide](https://www.notion.so/Libasm-3c94bbc7df234499b012f6ae82b84dc2) - ryukim - [Korean]
 * [libasm_test](https://github.com/cacharle/libasm_test) - cacharle
 
 ---
@@ -55,7 +55,7 @@ Tests for the new cursus (from october 2019)
 
 ## Ft_server
 
-* [guide - french](https://github.com/pmouhali/ft_server) - pmouhali
+* [guide](https://github.com/pmouhali/ft_server) - pmouhali - [French]
 
 ---
 
@@ -109,9 +109,8 @@ Tests for the new cursus (from october 2019)
 * [42 ranking](https://find-peers.herokuapp.com/)
 * [Intra 42 android app](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=fr), 
   [Github of the app](https://github.com/pvarry/intra42)
-* [42 Paris Github](https://github.com/42Paris)
-* [norminette from home](https://github.com/42Paris/norminette)
-* [header from home](https://github.com/pbondoer/vim-42header)
+* [norminette from home](https://github.com/42Paris/norminette) - [Paris]
+* [header from home](https://github.com/pbondoer/vim-42header) - [Paris]
 * [42toolbox](https://github.com/alexandregv/42toolbox) - alexandregv
  
 ---
