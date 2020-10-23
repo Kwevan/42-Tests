@@ -119,3 +119,9 @@ Tests for the new cursus (from october 2019)
 ### Others
  
 * [jetbrains](https://www.jetbrains.com/community/education/#students) - CLion, IntelliJ ...
+
+
+---
+
+how to contribute: https://www.youtube.com/watch?v=yr6IzOGoMsQ
+ 
