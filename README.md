@@ -112,6 +112,7 @@ Tests for the new cursus (from october 2019)
 * [norminette from home](https://github.com/42Paris/norminette) - [Paris]
 * [header from home](https://github.com/pbondoer/vim-42header) - [Paris]
 * [42toolbox](https://github.com/alexandregv/42toolbox) - alexandregv
+* [setupVM42](https://github.com/Velovo/setupvm42) - arthur
  
 ---
  
