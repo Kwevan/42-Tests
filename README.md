@@ -111,6 +111,8 @@ Tests for the new cursus (from october 2019)
   [Github of the app](https://github.com/pvarry/intra42)
 * [norminette from home](https://github.com/42Paris/norminette) - [Paris]
 * [header from home](https://github.com/pbondoer/vim-42header) - [Paris]
+* [header from home - VS Code](https://marketplace.visualstudio.com/items?itemName=kube.42header&ssr=false#overview) - [Paris]
+
 * [42toolbox](https://github.com/alexandregv/42toolbox) - alexandregv
 * [setupVM42](https://github.com/Velovo/setupvm42) - arthur
  
