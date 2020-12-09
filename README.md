@@ -27,9 +27,11 @@ Tests for the new cursus (from october 2019)
 ## Minishell
 
 * [Minishell-tester](https://github.com/solaldunckel/minishell-tester) - solaldunckel
+* [List of commands to Tests](https://docs.google.com/spreadsheets/d/1BLU6C9S7aoCl01x74GiW7s4xpEWWJ1cPrMTcLwISruk/edit#gid=1627853444) - bbrunet && julnolle
+* [List of commands to Tests](https://docs.google.com/spreadsheets/d/1fniV2dSRB5TaFGyX3O-iK0u61xR5jDdkFKYonKpilIc/edit#gid=0) - mashar && vparekh
+* [List of commands to Tests](https://github.com/t0mm4rx/minishell_tests) - t0mm4rx
 * [42TESTERS-MINISHELL](https://github.com/Mazoise/42TESTERS-MINISHELL) - Mazoise
 * [minishell_test](https://github.com/cacharle/minishell_test) - cacharle
-* [minishell_tests](https://github.com/t0mm4rx/minishell_tests) - t0mm4rx
 
 ---
 
@@ -44,6 +46,7 @@ Tests for the new cursus (from october 2019)
 
 * [guide](https://www.notion.so/Libasm-3c94bbc7df234499b012f6ae82b84dc2) - ryukim - [Korean]
 * [libasm_test](https://github.com/cacharle/libasm_test) - cacharle
+* [mlibasm_tester](https://github.com/mli42/mlibasm_tester) - mli42
 
 ---
 
