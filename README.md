@@ -9,6 +9,14 @@ Tests for the new cursus (from october 2019)
 
 ---
 
+## webserv
+
+* [webserv_tester](https://github.com/hygoni/webserv_tester) - hygoni
+* [webserv_tester 2](https://github.com/fredrikalindh/webserv_tester) - fredrikalindh
+* [webserv_tester 3](https://github.com/t0mm4rx/webserv/tree/main/tests) - t0mm4rx
+
+---
+
 ## ft\_containers
 
 * [ft_containers_test](https://github.com/cacharle/ft_containers_test) - cacharle
