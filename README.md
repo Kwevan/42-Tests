@@ -29,6 +29,7 @@ Tests for the new cursus (from october 2019)
 * [Socrates](https://github.com/nesvoboda/socrates) - ashishae
 * [Tips for correction on the Xubuntu VM ](https://www.notion.so/philosophers-VM-c60be9c836084edfbcd9c07e29b429c4) - ashishae
 * [philosophers_test](https://github.com/cacharle/philosophers_test) - cacharle
+* [Philosphers-42Project-Tester](https://github.com/newlinuxbot/Philosphers-42Project-Tester) - newlinuxbot
 
 ---
 
