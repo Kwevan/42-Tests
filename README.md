@@ -39,6 +39,7 @@ Tests for the new cursus (from october 2019)
 * [List of commands to Test](https://docs.google.com/spreadsheets/d/1BLU6C9S7aoCl01x74GiW7s4xpEWWJ1cPrMTcLwISruk/edit#gid=1627853444) - bbrunet && julnolle
 * [List of commands to Test](https://docs.google.com/spreadsheets/d/1fniV2dSRB5TaFGyX3O-iK0u61xR5jDdkFKYonKpilIc/edit#gid=0) - mashar && vparekh
 * [List of commands to Test](https://github.com/t0mm4rx/minishell_tests) - t0mm4rx
+* [Minishell-tester](https://github.com/thallard/minishell_tester) - thallard
 * [42TESTERS-MINISHELL](https://github.com/Mazoise/42TESTERS-MINISHELL) - Mazoise
 * [minishell_test](https://github.com/cacharle/minishell_test) - cacharle
 
@@ -119,6 +120,7 @@ Tests for the new cursus (from october 2019)
 ## Others
 
 * [42 ranking](https://find-peers.herokuapp.com/)
+* [42tools](https://github.com/solareenlo/42tools) - solareenlo
 * [Intra 42 android app](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=fr), 
   [Github of the app](https://github.com/pvarry/intra42)
 * [norminette from home](https://github.com/42Paris/norminette) - [Paris]
