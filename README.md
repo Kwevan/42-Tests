@@ -125,7 +125,8 @@ Tests for the new cursus (from october 2019)
 * [42tools](https://github.com/solareenlo/42tools) - solareenlo
 * [Intra 42 android app](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=fr), 
   [Github of the app](https://github.com/pvarry/intra42)
-* [norminette from home](https://github.com/42Paris/norminette) - [Paris]
+* [norminette v3 from home](https://github.com/42School/norminette) - [Paris]
+* [norminette v3 highlighter for vscode](https://github.com/Mariusmivw/vscode-42-norminette-3-highlighter)
 * [header from home](https://github.com/pbondoer/vim-42header) - [Paris]
 * [header from home - VS Code](https://marketplace.visualstudio.com/items?itemName=kube.42header&ssr=false#overview) - [Paris]
 
