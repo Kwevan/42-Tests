@@ -85,6 +85,7 @@ Tests for the new cursus (from october 2019)
 * [printf-tester](https://github.com/AntoineBourin/printf-tester.git) - AntoineBourin
 * [ft_printf_test](https://github.com/cacharle/ft_printf_test) - cacharle
 * [Test-42_Printf](https://github.com/PandaCoustik/Test-42) - jpanneau
+* [francinette](https://github.com/xicodomingues/francinette) - xicodomingues
 
 ---
 
@@ -95,6 +96,7 @@ Tests for the new cursus (from october 2019)
 * [gnlkiller](https://github.com/DontBreakAlex/gnlkiller) - DontBreakAlex
 * [gnlkiller2](https://github.com/Sherchryst/gnlkiller) - Sherchryst  
 * [Test-42_GNL](https://github.com/PandaCoustik/Test-42) - jpanneau    
+* [francinette](https://github.com/xicodomingues/francinette) - xicodomingues
 
 ---
 
@@ -111,13 +113,14 @@ Tests for the new cursus (from october 2019)
 
 * [libft-unit-test](https://github.com/alelievr/libft-unit-test) - alelievr
 * [libft-war-machine-v2019](https://github.com/Night-squad/libft-war-machine-v2019) - Night-squad
+* [francinette](https://github.com/xicodomingues/francinette) - xicodomingues
 
 #### also
 
 * [libftdestructor](https://github.com/t0mm4rx/libftdestructor) - t0mm4rx
 * [42-libft](https://github.com/Glagan/42-libft) - Glagan
 * [Libft_unit_tests](https://github.com/jeheran/Libft_unit_tests) - jeheran
- 
+
 --- 
 
 ## Others
