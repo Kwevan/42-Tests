@@ -46,6 +46,7 @@ Tests for the new cursus (from october 2019)
 * [Minishell-tester](https://github.com/thallard/minishell_tester) - thallard
 * [42TESTERS-MINISHELL](https://github.com/Mazoise/42TESTERS-MINISHELL) - Mazoise
 * [minishell_test](https://github.com/cacharle/minishell_test) - cacharle
+* [Minishell_Tester](https://github.com/Toufa7/Minishell_Tester) - Toufa7
 
 ---
 
