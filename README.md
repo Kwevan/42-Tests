@@ -28,6 +28,16 @@ Tests for the new cursus (from october 2019)
 
 ---
 
+## Push_Swap
+
+* [Push Swap Tester](https://github.com/ael-bekk/push_swap_tester.git) - ael-bekk
+* [Number Generator 4 PUSH_SWAP](https://github.com/Toufa7/Push_Swap_Random_Number_Generator) - Toufa7
+
+---
+
+
+
+
 ## Philosophers
 
 * [Socrates](https://github.com/nesvoboda/socrates) - ashishae
