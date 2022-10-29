@@ -37,6 +37,11 @@ Tests for the new cursus (from october 2019)
 
 ---
 
+## Pipex
+* [PIPEX_TESTER](https://github.com/ael-bekk/PIPEX_TESTER) - ael-bekk
+
+---
+
 ## Minishell
 
 * [Minishell-tester](https://github.com/solaldunckel/minishell-tester) - solaldunckel
